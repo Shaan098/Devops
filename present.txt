@@ -1,0 +1,6 @@
+RollNo,Name,Status
+1,Shaan,Present
+2,Farhana,Absent
+3,Raj,Present
+4,Rita,Present
+
